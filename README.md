@@ -65,4 +65,4 @@ To execute the program, run the script. The program will prompt for input to pro
 For the given task:
 
 The program takes a positive integer n as input, along with a graph in the specified format. It identifies all sub-graphs of size n and counts the occurrences of each motif. The results are written to the "partB.txt" file in the required format.
-ב(
+
